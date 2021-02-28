@@ -1,0 +1,21 @@
+h1{
+    color: rgb(0, 226, 226);
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+}
+.information
+{
+    text-align: right;
+    font-variant: small-caps;
+    line-height: 150%;
+    font-family: Arial;
+    font-weight: 200;
+    color: #FFFFFF;
+    background-color: rgb(255, 82, 29);
+}
+body{
+    background-image: url("background.jpg");
+    width: windowWidth;
+    height: windowHeight;
+}
